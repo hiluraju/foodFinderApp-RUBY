@@ -1,0 +1,5 @@
+BARKATH	SOUTH INDIAN	50
+Ifthar	Mixed	80
+Hoja mukku	fast food	60
+CHOPSTICK	CHINEESE	90
+sree aaryas	vegetarian	50
